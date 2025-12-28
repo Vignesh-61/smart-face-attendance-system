@@ -19,12 +19,3 @@ Automatic Attendance Marking
 Historical Attendance Tracking & Export
 
 Modular and Extendable for enhancements 
-
-📦 Tech Stack
-
-Component       	   Technology
-Detection	           YOLOv8
-Feature Extraction	 ResNet50
-Recognition	         CNN
-Language	           Python
-Video	               OpenCV
