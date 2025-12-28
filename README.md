@@ -21,6 +21,7 @@ Historical Attendance Tracking & Export
 Modular and Extendable for enhancements 
 
 📦 Tech Stack
+
 Component       	   Technology
 Detection	           YOLOv8
 Feature Extraction	 ResNet50
