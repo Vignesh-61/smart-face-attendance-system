@@ -1,2 +1,21 @@
 # smart-face-attendance-system
-A smart face attendance system using ResNet50 for face embeddings, YOLOv8 for real-time face detection, and CNN for advanced facial recognition. Features include live video streaming, automatic attendance marking, and historical attendance tracking.
+Smart Face Attendance System
+
+A smart face attendance system that uses state-of-the-art machine learning and computer vision models to detect and recognize faces in real time, automates attendance recording, and provides historical attendance tracking. 
+GitHub
+
+🧠 Features
+
+Real-Time Face Detection using YOLOv8
+
+Face Embeddings with ResNet50
+
+Facial Recognition via Convolutional Neural Network (CNN)
+
+Live Video Streaming from webcam
+
+Automatic Attendance Marking
+
+Historical Attendance Tracking & Export
+
+Modular and Extendable for enhancements 
